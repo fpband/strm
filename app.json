@@ -40,7 +40,7 @@
             "required": false
         }
     },
-    "stack": "heroku-20",
+    "stack": "heroku-22",
     "formation": {
         "web": {
             "quantity": 1,
