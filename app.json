@@ -10,7 +10,7 @@
         "bot",
         "link"
     ],
-    "repository": "https://github.com/fpband/str_lin",
+    "repository": "https://github.com/fpband/str-lin",
     "env": {
         "API_ID": {
             "description": "Get it from  https://my.telegram.org"
